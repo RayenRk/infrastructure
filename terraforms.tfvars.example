@@ -1,0 +1,9 @@
+# remove the .example extension from the file and add your own credentials.
+
+aws_access_key = ""
+aws_secret_key = ""
+aws_token      = ""
+github_token   = ""
+github_user    = ""
+github_repo    = ""
+key_pair       = ""
